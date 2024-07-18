@@ -1,1 +1,2 @@
-SQL for Data Science, study repository
+# SQL for Data Science, study repository
+
