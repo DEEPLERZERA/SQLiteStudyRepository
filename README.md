@@ -1,2 +1,3 @@
-# SQL for Data Science, study repository
+# SQLiteStudyRepository
+SQL for Data Science, study repository
 
